@@ -2,7 +2,7 @@
 > Convert yolo2 model of ONNX format to darknet format
 
 ## Get ONNX format
-* Save YOLO model from PyTorch to ONNX: [https://github.com/purelyvivid/yolo2_onnx/blob/master/1.yolo2_pytorch_onnx_save_model.ipynb]
+* https://github.com/onnx/models/tree/master/tiny_yolov2
 
 ## Convert ONNX format -> Darknet format
 * __python onnx2darknet.py 'yolov2.onnx' 'yolov2.cfg' 'yolov2.weights'__
