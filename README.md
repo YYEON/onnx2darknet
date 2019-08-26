@@ -2,7 +2,7 @@
 > Convert yolo2 model of ONNX format to darknet format
 
 ## Get ONNX format
-* https://github.com/onnx/models/tree/master/tiny_yolov2
+* 
 
 ## Convert ONNX format -> Darknet format
 * __python onnx2darknet.py 'yolov2.onnx' 'yolov2.cfg' 'yolov2.weights'__
