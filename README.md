@@ -21,7 +21,7 @@
 ## Currently supported
 ### Models
 * Yolov2-tiny
-* Yolov2(parti
+* Yolov2(partial)
 
 ### Operator
 * BatchNormalization
